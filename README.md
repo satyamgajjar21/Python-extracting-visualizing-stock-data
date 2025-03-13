@@ -23,7 +23,4 @@ This project focuses on extracting, processing, and visualizing stock data using
 ### **Prerequisites**  
 Ensure you have **Python 3.x** installed along with the required dependencies.  
 
-### **Install Dependencies**  
-Run the following command in your terminal:  
-```bash
-pip install yfinance pandas beautifulsoup4 matplotlib seaborn requests
+##Thank you
